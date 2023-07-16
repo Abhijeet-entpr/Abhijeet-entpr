@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Abhijeet-entpr
-- 👀 I’m interested in making innovative projects
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on projects which is in creation stage
+- 👋 Hi, I’m @Abhijeet-entpr.
+- 👀 I’m interested in making innovative projects.
+- 🌱 I’m currently learning java , Spring Boot and Hibernate.
+- 💞️ I’m looking to collaborate on projects which is in creation stage.
 - 📫 How to reach me ...
 
 <!---
